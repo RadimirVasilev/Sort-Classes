@@ -1,0 +1,14 @@
+C:\Users\PC-03\source\repos\StudentSorter\StudentSorter\bin\Debug\net8.0\StudentSorter.exe
+C:\Users\PC-03\source\repos\StudentSorter\StudentSorter\bin\Debug\net8.0\StudentSorter.deps.json
+C:\Users\PC-03\source\repos\StudentSorter\StudentSorter\bin\Debug\net8.0\StudentSorter.runtimeconfig.json
+C:\Users\PC-03\source\repos\StudentSorter\StudentSorter\bin\Debug\net8.0\StudentSorter.dll
+C:\Users\PC-03\source\repos\StudentSorter\StudentSorter\bin\Debug\net8.0\StudentSorter.pdb
+C:\Users\PC-03\source\repos\StudentSorter\StudentSorter\obj\Debug\net8.0\StudentSorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-03\source\repos\StudentSorter\StudentSorter\obj\Debug\net8.0\StudentSorter.AssemblyInfoInputs.cache
+C:\Users\PC-03\source\repos\StudentSorter\StudentSorter\obj\Debug\net8.0\StudentSorter.AssemblyInfo.cs
+C:\Users\PC-03\source\repos\StudentSorter\StudentSorter\obj\Debug\net8.0\StudentSorter.csproj.CoreCompileInputs.cache
+C:\Users\PC-03\source\repos\StudentSorter\StudentSorter\obj\Debug\net8.0\StudentSorter.dll
+C:\Users\PC-03\source\repos\StudentSorter\StudentSorter\obj\Debug\net8.0\refint\StudentSorter.dll
+C:\Users\PC-03\source\repos\StudentSorter\StudentSorter\obj\Debug\net8.0\StudentSorter.pdb
+C:\Users\PC-03\source\repos\StudentSorter\StudentSorter\obj\Debug\net8.0\StudentSorter.genruntimeconfig.cache
+C:\Users\PC-03\source\repos\StudentSorter\StudentSorter\obj\Debug\net8.0\ref\StudentSorter.dll
